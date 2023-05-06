@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YOU%20CAN%20DO%20IT&fontSize=70)
 ### Hello👋 My name is Hyowon!
 
 - 🏫 I'm majoring in IT Engineering at Sookmyung University.
@@ -12,7 +13,6 @@
 - Sookmyung Central Development Club, SOLUX 28th OB memeber `2023.2 ~ ing`
 
 ### 📘Project📘 -->
-
 
 <!--
 **ymj07168/ymj07168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
