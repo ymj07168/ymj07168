@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YOU%20CAN%20DO%20IT!&fontSize=65)
-### Hello👋 My name is Hyowon!
+### Hello👋  Hyowon!
 
 - 🏫 I'm majoring in IT Engineering at Sookmyung University.
 - 💻 I'm currently interested in Web Programming.
