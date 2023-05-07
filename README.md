@@ -3,7 +3,7 @@
 
 - 🏫 I'm majoring in IT Engineering at Sookmyung University.
 - 💻 I'm currently interested in Web Programming.
-- 📖 I'm currently studying <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+- 📖 I'm studying <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 - 🐶 I love my dog, Guzzi.
 
 <!-- ### 💙Activity💙
