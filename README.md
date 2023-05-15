@@ -2,9 +2,7 @@
 ### Hello👋 I'm Hyowon!
 
 - 🏫 I'm majoring in IT Engineering at Sookmyung University.
-- 💻 I'm currently interested in Web Programming.
-- 📖 I'm studying <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-- 🐶 I love my dog, Guzzi.
+- 💻 I'm currently interested in Web Programming and studying <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 <!-- ### 💙Activity💙
 - IT Engineering Academy, WIN 12th member `2021.2 ~ 2022.2`
