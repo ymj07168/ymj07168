@@ -39,10 +39,10 @@ I'm a passionate developer with an interest in web programming. I love turning i
 
 ### 💼 Activities
 
-- **Korean University Student IT, Management Society** (29th Term) `2024.04 - 2024.06`
-- ICT Internship at **Elice** `2023.09 - 2023.12`
+- **Korean University Student IT, Management Society** (29th Term, Development Team) `2024.02 - 2024.06`
+- Front-End Development Intern at **Elice** `2023.09 - 2023.12`
 - MVP Development Supporters, **ITDA** (4th Term) `2023.05 - 2023.07`
-- Undergraduate Researcher at **Gamsungsoft** `2022.09 - 2023.02`
+- Undergraduate Researcher at **Gamsungsoft** (Front-End Team) `2022.09 - 2023.02`
 - Sookmyung Women's University Central Development Club, **SOLUX** (27th Term) `2022.03 - 2023.02`
 - Sookmyung Women's University IT Engineering Web Operations Team, **WIN** (12th Member, 13th President) `2021.03 - 2023.02`
 
