@@ -44,7 +44,7 @@ I'm a passionate developer with an interest in web programming. I love turning i
 - MVP Development Supporters, **ITDA** (4th Term) `2023.05 - 2023.07`
 - Undergraduate Researcher at **Gamsungsoft** `2022.09 - 2023.02`
 - Sookmyung Women's University Central Development Club, **SOLUX** (27th Term) `2022.03 - 2023.02`
-- Sookmyung Women's University IT Engineering Web Operations Team, **WIN** (12th Member, 13th President)`2021.03 - 2023.02`
+- Sookmyung Women's University IT Engineering Web Operations Team, **WIN** (12th Member, 13th President) `2021.03 - 2023.02`
 
 <!--### 📈 Skills & Strengths
 - **Collaborative**: Proven ability to work effectively in diverse teams, bridging communication between developers, planners, and designers.
