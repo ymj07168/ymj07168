@@ -39,6 +39,7 @@ I'm a passionate developer with an interest in web programming. I love turning i
 
 ### 💼 Activities
 
+- Hyundai AutoEver Mobility SW School Web/App course `2024.08 - current`
 - **Korean University Student IT, Management Society** (29th Term, Development Team) `2024.02 - 2024.06`
 - Front-End Development Intern at **Elice** `2023.09 - 2023.12`
 - MVP Development Supporters, **ITDA** (4th Term) `2023.05 - 2023.07`
