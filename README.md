@@ -6,6 +6,7 @@ I'm a passionate developer with an interest in web programming. I love turning i
 
 - 🔭 I’m currently working on: Hyundai AutoEver SW School Web/App course
 - 🌱 I’m currently learning: Advanced React, TypeScript, and optimizing UI/UX for better accessibility
+- 🌈 I'm excited to connect with fellow developers and explore new opportunities.
 
 ---
 
@@ -60,4 +61,4 @@ I'm a passionate developer with an interest in web programming. I love turning i
 
 ---
 
-Thank you for visiting my profile! I'm excited to connect with fellow developers and explore new opportunities.
+Thank you for visiting my profile!
