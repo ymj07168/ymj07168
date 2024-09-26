@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Hyowon Lee!
 
 ### 💻 About Me
-I'm a passionate developer with an interest in web programming. I love turning ideas into reality through code.
+I'm a passionate SW engineer with an interest in web programming. I love turning ideas into reality through code.
 
 - 🔭 I’m currently working on: Hyundai AutoEver SW School Web/App course
 - 🌱 I’m currently learning: Advanced React, TypeScript, and optimizing UI/UX for better accessibility
@@ -42,7 +42,7 @@ I'm a passionate developer with an interest in web programming. I love turning i
 
 - Hyundai AutoEver Mobility SW School Web/App course `2024.08 - current`
 - **Korean University Student IT, Management Society** (29th Term, Development Team) `2024.02 - 2024.06`
-- Front-End Development Intern at **Elice** `2023.09 - 2023.12`
+- Front-End Engineer Intern at **Elice** `2023.09 - 2023.12`
 - MVP Development Supporters, **ITDA** (4th Term) `2023.05 - 2023.07`
 - Undergraduate Researcher at **Gamsungsoft** (Front-End Team) `2022.09 - 2023.02`
 - Sookmyung Women's University Central Development Club, **SOLUX** (27th Term) `2022.03 - 2023.02`
