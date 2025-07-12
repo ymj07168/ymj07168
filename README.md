@@ -4,18 +4,14 @@
 ### 💻 About Me
 I'm a passionate software engineer with an interest in web programming. I love turning ideas into reality through code.
 
-- 🔭 I’m currently working on: Hyundai AutoEver SW School Web/App course
-- 🌱 I’m currently learning: Advanced React, TypeScript, and optimizing UI/UX for better accessibility
-- 🌈 I'm excited to connect with fellow developers and explore new opportunities.
-
 ---
 
 ### 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)    
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)      
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -38,15 +34,24 @@ I'm a passionate software engineer with an interest in web programming. I love t
 
 ---
 
-### 💼 Activities
+### 💼 Experience
 
-- Hyundai AutoEver Mobility SW School Web/App course `2024.08 - current`
-- Korean University Student IT Management Society, **KUSITMS** (29th Term, Development Team) `2024.02 - 2024.06`
-- Front-End Engineer Intern at **Elice** `2023.09 - 2023.12`
-- MVP Development Supporters, **ITDA** (4th Term) `2023.05 - 2023.07`
-- Undergraduate Researcher at **Gamsungsoft** (Front-End Team) `2022.09 - 2023.02`
-- Sookmyung Women's University Central Development Club, **SOLUX** (27th Term) `2022.03 - 2023.02`
-- Sookmyung Women's University IT Engineering Web Operations Team, **WIN** (12th Member, 13th President) `2021.03 - 2023.02`
+- **POSCO DX** – Software Engineer `2025.05 – Present`
+- **Elice** – Front-End Engineer Intern `2023.09 – 2023.12`
+- **Gamsungsoft** – Front-End Engineer Intern (Undergraduate Research Program) `2022.09 – 2023.02`
+
+---
+
+### 📌 Activities
+
+- **POSCO DX Youth IT Specialist Academy** – Trainee (9th Cohort) `2024.11 – 2025.05`
+- **Hyundai AutoEver Mobility SW School Web/App Course** – Trainee (1th Cohort) `2024.08 – 2024.11`
+- **KUSITMS** – Front-End Developer, Development Team (29th Term) `2024.02 – 2024.06`
+- **ITDA(잇-다) (MVP Development Supporters)** – Front-End Developer (4th Cohort) `2023.05 – 2023.07`
+- **SOLUX (SMWU Central Development Club)** – Front-End Developer (27th Term) `2022.03 – 2023.02`
+- **WIN (SMWU Web Operations Team)** – Member (12th Term), President (13th Term) `2021.03 – 2023.02`
+
+---
 
 <!--### 📈 Skills & Strengths
 - **Collaborative**: Proven ability to work effectively in diverse teams, bridging communication between developers, planners, and designers.
