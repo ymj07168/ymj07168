@@ -47,7 +47,7 @@ I love turning ideas into reality through code.
 
 - **POSCO DX Youth IT Specialist Academy** – Trainee (9th Cohort) `2024.11 – 2025.05`
 - **Hyundai AutoEver Mobility SW School Web/App Course** – Trainee (1st Cohort) `2024.08 – 2024.11`
-- **KUSITMS (Korean University Students IT, Management Society)** – Front-End Developer, Development Team (29th Term) `2024.02 – 2024.06`
+- **KUSITMS (Korean University Students IT Management Society)** – Front-End Developer (29th Term) `2024.02 – 2024.06`
 - **ITDA(잇-다) (MVP Development Supporters)** – Front-End Developer (4th Cohort) `2023.05 – 2023.07`
 - **SOLUX (SMWU Central Development Club)** – Full-Stack Developer (27th Term) `2022.03 – 2023.02`
 - **WIN (SMWU Web Operations Team)** – Member (12th Term), President (13th Term) `2021.03 – 2023.02`
